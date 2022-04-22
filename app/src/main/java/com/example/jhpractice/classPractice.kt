@@ -1,9 +1,5 @@
 package com.example.jhpractice
 
-class classPractice {
-
-
-}
 // 생성자 : name :String /  constructor 도 생략가능 / "Anonymous" : default
 open class Humen constructor(val name :String = "Anonymous"){
 
@@ -70,3 +66,4 @@ fun main(){
 
     korean.singASong()
 }
+
